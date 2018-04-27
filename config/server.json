@@ -1,0 +1,19 @@
+[
+  {
+    "name": "server01",
+    "ip": "ipaddress",
+    "port": 22,
+    "user": "root",
+    "password": "password",
+    "method": "method"
+  },
+  {
+    "name": "server02",
+    "ip": "ipaddress",
+    "port": 22,
+    "user": "root",
+    "password": "passord",
+    "method": "pubkey",
+    "key": "/root/.ssh/id_rsa"
+  }
+]
